@@ -6,11 +6,11 @@
 
 bif, you can contact me via:
 
-https://vk.com/fl_1z
-https://t.me/fl_1z
-https://gab.com/fl_1z (I hardly appear on GS)
+* https://vk.com/fl_1z
+* https://t.me/fl_1z
+* https://gab.com/fl_1z (I hardly appear on GS)
 ---
-fzlabs.me@gmail.com
+* fzlabs.me@gmail.com
 
 <!---
 fzlabsme/fzlabsme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
